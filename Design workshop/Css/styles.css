@@ -1,0 +1,23 @@
+/*---FILE IMPORTS--------*/
+
+@import url('bootstrap.css');
+@import url('fonts.css');
+/*---GENERAL STUFF--------*/
+.fs12 {
+  font-size: 12px;
+}
+.fs13 {
+  font-size: 13px;
+}
+.fs14 {
+  font-size: 14px;
+}
+.fs15 {
+  font-size: 15px;
+}
+.fs16 {
+  font-size: 16px;
+}
+
+/*---CONTACT PAGE---------*/
+/*---PORTFOLIO PAGE-------*/
